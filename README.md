@@ -1,6 +1,6 @@
 # React-ChatApp-Coding-Ninjas
 
-# Hosted-Website Link : - 
+# Hosted-Website Link : - https://chat-app-kohl-eight.vercel.app/
 
 This is a frontend implementation of a chat application built using React, where users can engage in conversations with their contacts. The application allows users to search for conversations by contact name, view and send messages, and manage conversations.
 
@@ -24,7 +24,7 @@ Start the development server : npm start
 
 Build the development file : npm run build
 
-Hosted Website Link :- 
+Hosted Website Link :- https://chat-app-kohl-eight.vercel.app/
 
 # Technologies Used :-
 
@@ -37,7 +37,9 @@ Redux (Optional, for bonus feature)
 CSS (for styling)
 
 # Screenshots :-
+![Screenshot 2024-11-17 144859](https://github.com/user-attachments/assets/94ee18cf-4d8e-459c-9a5b-f444fcb98083)
 
+![Screenshot 2024-11-17 145957](https://github.com/user-attachments/assets/acb6b3f4-d198-4541-8912-f46d7a730fea)
 
 
 
